@@ -1,4 +1,4 @@
-name: deploy on push
+name: deploy on prod
 on: [push]
 
 jobs: 
